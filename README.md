@@ -91,6 +91,7 @@ My goal is to become a professional Data Analyst and contribute to organizations
 # 📫 Connect With Me
 
 GitHub: https://github.com/code-with-shahreyar
+linkedin: https://www.linkedin.com/in/code-with-shahreyar-a59363330?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ---
 
